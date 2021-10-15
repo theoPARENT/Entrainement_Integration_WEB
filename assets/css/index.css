@@ -1,0 +1,24 @@
+div.home
+{
+    width: 50px;
+}
+header {
+    background-repeat: no-repeat;
+    position: relative;
+}
+div.link {
+    color: white;
+    text-decoration: none;
+    padding: 0% 10%;
+}
+div.navbar {
+
+
+}
+
+#fondHeader{
+    position: absolute;
+    width: 1421px;
+    height: 813px;
+
+}
